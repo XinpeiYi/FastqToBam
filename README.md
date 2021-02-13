@@ -1,6 +1,6 @@
 # FastqToBam
 
-#### Build index
+#### Build hg38 index
 bowtie2-build Homo_sapiens_assembly38.fasta hg38
 
 #### Transfer fastq to sam file
